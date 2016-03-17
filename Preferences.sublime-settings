@@ -1,0 +1,38 @@
+{
+  "Filled": "rect",
+  "auto_complete_selector": "source, text",
+  "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+  "dictionary": "Packages/Language - English/en_US.dic",
+  "ensure_newline_at_eof_on_save": true,
+  "flatland_square_tabs": true,
+  "font_size": 14.0,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "ActionScript",
+    "AppleScript",
+    "ASP",
+    "Batch File",
+    "C#",
+    "C++",
+    "Clojure",
+    "D",
+    "Erlang",
+    "Haskell",
+    "Java",
+    "Objective-C",
+    "PHP",
+    "Scala",
+    "TCL"
+  ],
+  "soda_classic_tabs": true,
+  "spacegray_sidebar_font_large": true,
+  "spacegray_sidebar_tree_large": true,
+  "spell_check": true,
+  "tab_size": 2,
+  "theme": "Soda Light.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "update_check": false,
+  "word_wrap": true
+}
