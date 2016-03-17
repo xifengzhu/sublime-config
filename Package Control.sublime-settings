@@ -1,0 +1,44 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+        "Git",
+        "Open Related"
+    ],
+    "installed_packages":
+    [
+        "AdvancedNewFile",
+        "AlignTab",
+        "Alternative Autocompletion",
+        "AngularJS Snippets",
+        "Base16 Color Schemes",
+        "BeautifyRuby",
+        "BracketHighlighter",
+        "CoffeeScript",
+        "Color Highlighter",
+        "ColorPick",
+        "CSSFormat",
+        "DictionaryAutoComplete",
+        "EJS",
+        "Emmet",
+        "ExtendedTabSwitcher",
+        "Git",
+        "GitGutter",
+        "Go Build",
+        "GoSublime",
+        "Markdown HTML Preview",
+        "Markdown Preview",
+        "Open Related",
+        "Package Control",
+        "ReactJS",
+        "RuboCop",
+        "Sass",
+        "SublimeLinter",
+        "SyncedSideBar",
+        "TagWrapper",
+        "Theme - Flatland",
+        "Theme - Soda",
+        "Theme - Spacegray",
+        "TrailingSpaces"
+    ]
+}
